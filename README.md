@@ -18,10 +18,10 @@ at **Hanyang University, Department of Data Science**,
 
 ---
 
-## 📂 Contents
+## Contents
 This repository includes **three programming assignments** and their corresponding **written reports**.
 
-### 📝 Assignments (Jupyter Notebooks)
+### Assignments (Jupyter Notebooks)
 
 - **Assignment 1 – k-Nearest Neighbors (k-NN)**
   - Implementation and evaluation of k-NN
